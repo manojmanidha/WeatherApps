@@ -76,7 +76,7 @@ input {
   justify-content: space-evenly;
 }
 
-.weather-card {
+.weather-cards {
   /* flex: 1; */
   background-color: white;
   border: 1px solid #ddd;

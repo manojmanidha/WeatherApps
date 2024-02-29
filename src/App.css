@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,68 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* .App{
+  background-color: rgb(199, 243, 243);
+} */
+
+
+/* WeatherApp.css */
+/* WeatherApp.css */
+
+
+.weather-app {
+  max-width: 100%;
+  margin: 50px auto;
+  text-align: center;
+  /* background-color: lightblue; */
+  padding: 20px;
 }
+
+input {
+  padding: 10px;
+  padding-right: 20px;
+  margin: 10px;
+  border-radius: 3px;
+}
+
+.green-button {
+  padding: 10px;
+  cursor: pointer;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 3px;
+
+}
+
+.weather-div {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.weather-card {
+  /* flex: 1; */
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 15px;
+  padding: 10px 60px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+p {
+  margin: 5px 0;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: rgb(220, 240, 247);
+}
+
+/* .weather-div{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+} */

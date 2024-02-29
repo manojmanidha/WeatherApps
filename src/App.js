@@ -43,7 +43,7 @@ function App() {
       </div>
       {loading && <p>Loading data...</p>}
       {weatherData && (
-        <div className='weather-div'>
+        <div className='weather-cards'>
 
           <div className='weather-card'>
             <h3>Temperature</h3>

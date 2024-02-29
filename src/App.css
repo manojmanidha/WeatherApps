@@ -71,12 +71,12 @@ input {
 
 }
 
-.weather-div {
+.weather-cards {
   display: flex;
   justify-content: space-evenly;
 }
 
-.weather-cards {
+.weather-card {
   /* flex: 1; */
   background-color: white;
   border: 1px solid #ddd;
